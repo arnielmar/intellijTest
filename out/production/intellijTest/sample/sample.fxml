@@ -16,5 +16,6 @@
    <children>
       <Button fx:id="button1" mnemonicParsing="false" text="Button" />
       <Button fx:id="button2" mnemonicParsing="false" text="Button" GridPane.columnIndex="1" />
+      <Button fx:id="button3" mnemonicParsing="false" text="Button" GridPane.rowIndex="1" />
    </children>
 </GridPane>
